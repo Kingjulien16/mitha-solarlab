@@ -1,0 +1,38 @@
+[
+  {
+    "name": "XGBoost",
+    "r2": 0.9999,
+    "rmse": 0.0135,
+    "mae": 0.0068
+  },
+  {
+    "name": "LightGBM",
+    "r2": 0.9996,
+    "rmse": 0.0256,
+    "mae": 0.0116
+  },
+  {
+    "name": "RandomForest",
+    "r2": 0.9995,
+    "rmse": 0.0281,
+    "mae": 0.0113
+  },
+  {
+    "name": "SVM",
+    "r2": 0.9947,
+    "rmse": 0.0875,
+    "mae": 0.0357
+  },
+  {
+    "name": "LinearRegression",
+    "r2": 0.9114,
+    "rmse": 0.359,
+    "mae": 0.286
+  },
+  {
+    "name": "Ensemble",
+    "r2": 0.9998,
+    "rmse": 0.0161,
+    "mae": 0.0073
+  }
+]
